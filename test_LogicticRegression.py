@@ -1,3 +1,8 @@
+"""
+Name: Phan Ben 
+Class: 18TDH1 _ DUT 
+Email: phanben110@gmail.com
+"""
 import OPP_algorithmRegression as pb
 import pandas as pd
 

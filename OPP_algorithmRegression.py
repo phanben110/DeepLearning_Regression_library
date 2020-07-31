@@ -1,3 +1,9 @@
+"""
+Name: Phan Ben 
+Class: 18TDH1 _ DUT 
+Email: phanben110@gmail.com
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
